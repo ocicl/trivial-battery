@@ -1,0 +1,10 @@
+* trivial-battery
+
+A trivial library for getting the battery informations.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/trivial-battery.git   |
+| commit  | 318c9da  |
+| systems | trivial-battery |
+|---------+-------------------------------------------|
+
